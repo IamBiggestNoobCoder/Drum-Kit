@@ -22,10 +22,7 @@ Welcome to the Drum Kit project! This interactive website allows you to explore 
 3. **Start Drumming:** Simply click on the buttons to trigger different drum sounds. Mix and match to create your rhythms!
 
 ## Demo
-
-[Link to Live Demo](# Drum Kit - Unleash Your Rhythm
-
-![Drum Kit Demo](link-to-your-demo-gif-or-screenshot)
+[Click to view](https://iambiggestnoobcoder.github.io/Drum-Kit/)
 
 ## Introduction
 
